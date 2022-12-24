@@ -75,3 +75,8 @@ $ git tag v1.0.0
 ![imagen](/imgs/incidencia3.PNG)
 
 ![imagen](/imgs/incidencia4.PNG)
+
+**6.Nueva versión del software**
+```bash
+$ git tag v1.0.1
+```
